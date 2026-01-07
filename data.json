@@ -59,7 +59,7 @@
     "3": "3.13"
   },
   "ota": "https://github.com/my-smart-homes/operating-system/releases/download/{version}/{os_name}_{board}-{version}.raucb",
-  "cli": "2024.11.0",
+  "cli": "2024.10.16",
   "dns": "2024.10.0",
   "audio": "2024.10.0",
   "multicast": "2024.09.0",
