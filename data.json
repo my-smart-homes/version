@@ -68,18 +68,18 @@
     "core": "my-smart-homes/{machine}-my-smart-homes",
     "supervisor": "my-smart-homes/{arch}-hassio-supervisor",
     "cli": "my-smart-homes/{arch}-hassio-cli",
-    "audio": "my-smart-homes/{arch}-hassio-audio",
-    "dns": "my-smart-homes/{arch}-hassio-dns",
-    "observer": "my-smart-homes/{arch}-hassio-observer",
-    "multicast": "my-smart-homes/{arch}-hassio-multicast"
+    "audio": "homeassistant/{arch}-hassio-audio",
+    "dns": "homeassistant/{arch}-hassio-dns",
+    "observer": "homeassistant/{arch}-hassio-observer",
+    "multicast": "homeassistant/{arch}-hassio-multicast"
   },
   "images": {
     "core": "ghcr.io/my-smart-homes/{machine}-my-smart-homes",
     "supervisor": "ghcr.io/my-smart-homes/{arch}-hassio-supervisor",
     "cli": "ghcr.io/my-smart-homes/{arch}-hassio-cli",
-    "audio": "ghcr.io/my-smart-homes/{arch}-hassio-audio",
-    "dns": "ghcr.io/my-smart-homes/{arch}-hassio-dns",
-    "observer": "ghcr.io/my-smart-homes/{arch}-hassio-observer",
-    "multicast": "ghcr.io/my-smart-homes/{arch}-hassio-multicast"
+    "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
+    "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
+    "observer": "ghcr.io/home-assistant/{arch}-hassio-observer",
+    "multicast": "ghcr.io/home-assistant/{arch}-hassio-multicast"
   }
 }
